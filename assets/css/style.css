@@ -370,7 +370,7 @@ table caption {
 @media(max-width: 800px) {
 
   html {
-    overflow: hidden;
+    overflow-x: hidden;
   }
 
   .intro-content,
@@ -476,4 +476,5 @@ table caption {
     transform: rotate(-90deg);
     border: 1px solid #0a1123;
   }
+
 }
